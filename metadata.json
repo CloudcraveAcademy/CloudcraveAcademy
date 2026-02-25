@@ -1,0 +1,9 @@
+{
+  "name": "Thames Support UK - Enterprise Training Platform",
+  "description": "A scalable, secure, enterprise-grade training management system for Health and Social Care, SIA, and Functional Skills training.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
